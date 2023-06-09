@@ -1,5 +1,5 @@
 body {
-  background: #162b4d;
+  background: #08152a;
 }
 
 div {
@@ -26,7 +26,7 @@ canvas {
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #181b1f;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -37,7 +37,7 @@ canvas {
 }
 
 .App-link {
-  color: #61dafb;
+  color: #057dff;
 }
 
 @keyframes App-logo-spin {
@@ -50,7 +50,7 @@ canvas {
 }
 
 .ghost-button {
-  border: 2px solid #c0bebe;
+  border: 2px solid #636872;
   cursor: pointer;
   letter-spacing: 0.2125rem;
   overflow: hidden;
